@@ -1,0 +1,21 @@
+{
+    "name": "github-app-webhook-tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "server": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "octokit": "^2.0.14",
+        "package.json": "^2.0.1"
+    },
+    "devDependencies": {
+        "smee-client": "^1.2.3"
+    }
+}

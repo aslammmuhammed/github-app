@@ -5,7 +5,8 @@
     "main": "app.js",
     "type": "module",
     "scripts": {
-        "server": "node app.js"
+        "server": "node app.js",
+        "dummy" : "node main.js"
     },
     "keywords": [],
     "author": "",

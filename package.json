@@ -1,12 +1,11 @@
 {
-    "name": "github-app-webhook-tutorial",
+    "name": "github-app-webhook",
     "version": "1.0.0",
     "description": "",
-    "main": "app.js",
+    "main": "index.js",
     "type": "module",
     "scripts": {
-        "server": "node app.js",
-        "dummy" : "node main.js"
+        "server": "node index.js",
     },
     "keywords": [],
     "author": "",

@@ -1,0 +1,6 @@
+APP_ID="XXXXX"
+WEBHOOK_SECRET="yoursecret"
+PRIVATE_KEY_PATH="/home/user/XXX/XXX/keyname.pem"
+DESTINATION_EVENTS={"orgname/source1": "deploy", "orgname/source2": "test"}
+WORKFLOW_REPOSITORY="dest"
+REF="refs/heads/main"

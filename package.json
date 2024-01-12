@@ -1,21 +1,21 @@
 {
-    "name": "github-app-webhook",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "server": "node index.js",
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "dotenv": "^16.0.3",
-        "octokit": "^2.0.14",
-        "package.json": "^2.0.1"
-    },
-    "devDependencies": {
-        "smee-client": "^1.2.3"
-    }
+  "name": "GitHub Repo Dispatcher App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.14",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "smee-client": "^1.2.3"
+  }
 }
